@@ -72,6 +72,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 		<p>Juan</p>
+		<p>Juan</p>
+		<p>Juan</p>
+		<p>Juan</p>
 		
 	</div>
 
