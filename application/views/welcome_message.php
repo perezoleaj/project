@@ -74,6 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>Juan</p>
 		<p>AGREGO NUEVO PARRAFO</p>
 		<p>Otro Cambio</p>
+		<p>Nuevo Cambio Cambio</p>
 			
 	</div>
 
